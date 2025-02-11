@@ -1,26 +1,45 @@
-# Welcome to Our Café!
+brew-me-cafe
+index.md
+---
+layout: page
+title: Brew Me Café
+permalink: /
+---
 
-We are delighted to have you join us! Enjoy our cozy atmosphere and indulge in our delicious offerings.
+# Welcome to Brew Me Café
 
-## Explore Our Favorites
+We are passionate about serving high-quality coffee in a cozy atmosphere.
 
-- **Expresso**
-- **Brewed**
-- **Cappuccino**
-- **Latte**
-- **Caramel Macchiato**
-- **Frappe**
-- **Shakes**, and 
-- **Coolers**
+## Our Menu
 
-Plus, savor our tasty snacks:
-  - Tuna Sandwich
-  - Egg Sandwich
-  - Grilled Cheese with Fries
-  - Burger with Fries
-    - Waffles, Cakes, Cookies, Nachos,
-      - Creamy Tuna Pesto Pasta 
-      - Classic Carbonara Pasta 
-      - Filipino Style Spaghetti
+- Espresso
+- Cappuccino
+- Latte
 
-Thank you for choosing us! We look forward to serving you.
+## Visit Us Today!
+
+[Contact Us](contact.html)
+# File Name: about.md
+
+---
+layout: page
+title: About Us
+permalink: /about/
+---
+
+# Our Story
+
+Brew Me Café is dedicated to providing exceptional coffee experiences.
+# File Name: contact.md
+
+---
+layout: page
+title: Contact Us
+permalink: /contact/
+---
+
+# Get in Touch!
+
+Email us at [info@brewmecafe.com](mailto://info@brewmecafe.com) or visit our location today!
+[Visit About Page]([Visit About Page]([https://www.facebook.com/justinelee72]
+_config.yml
